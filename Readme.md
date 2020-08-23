@@ -2,13 +2,6 @@
 
 2. LONGB0642-MBP:test3 mayank$ openssl req -x509 -new -nodes -key rootCA.key -sha256 -days 1024 -out rootCA.crt
 
-You are about to be asked to enter information that will be incorporated
-into your certificate request.
-What you are about to enter is what is called a Distinguished Name or a DN.
-There are quite a few fields but you can leave some blank
-For some fields there will be a default value,
-If you enter '.', the field will be left blank.
------
 Country Name (2 letter code) []:IN
 State or Province Name (full name) []:KA
 Locality Name (eg, city) []:Banngalore
